@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@300&display=swap');
+
+body {
+    font-family: 'Prompt', sans-serif;
+  font-size: 1rem;
+  text-align: center;
+  position: relative;
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/102/204/987/black-panther-black-background-minimalism-marvel-comics-wallpaper-preview.jpg");
+  background-size: cover;
+}
+
+
+#txt-area{
+    width: 90%;
+    height: 30vh;
+    display: block;
+    margin: 1rem;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+    background-color: transparent
+    ;
+    color: turquoise;
+}
+
+#output{
+    border: 1px solid white;
+    width: 80%;
+  
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+  
+    margin-left: auto;
+    margin-right: auto;
+    color: turquoise;
+
+}
+/*navigation bar*/
+
+.navigation {
+   
+    padding: 1rem;
+   
+    
+  }
+  .container{
+    background-color: transparent;
+    color: rgb(155, 252, 0);
+    font-size: x-large;
+ 
+
+  }
+
+  footer{
+    background-color: transparent;
+    color: rgb(155, 252, 0);;
+  }
+   #btn{
+    background-color:darkslateblue;
+    color: rgb(155, 252, 0);;
+   }
